@@ -30,23 +30,12 @@ Portfolio: **[pranavgc.github.io](https://pranavgc.github.io/)**
 
 **Statistics** bootstrap CIs · Wilcoxon / Friedman ·  Benjamini–Hochberg · pre-registration · negative controls · rolling-origin CV
 
+**Deep Learning** latent diffusion (LoRA fine-tuning, DDIM inversion, sampler tuning) · Graph Neural Networks · Convolution Neural Networks · Agentic AI · Reinforcement Learning · Transformers  · Sequence Models · Generative Adversarial Networks
+
 **Engineering** dbt · DuckDB · BigQuery · Docker · · GitHub Actions · pytest · Python · SQL · C++
 
 ### Elsewhere
 
-[Portfolio](https://pranavgc.github.io/) · [LinkedIn](https://www.linkedin.com/in/pranav-chandratre-6b7988255) · [Hugging Face](https://huggingface.co/Licht1183) · [pranavchandratre00@gmail.com](mailto:pranavchandratre00@gmail.com)## Hi there 👋
+[Portfolio](https://pranavgc.github.io/) · [LinkedIn](https://www.linkedin.com/in/pranav-chandratre-6b7988255) · [Hugging Face](https://huggingface.co/Licht1183) · [pranavchandratre00@gmail.com](mailto:pranavchandratre00@gmail.com)
 
-<!--
-**pranavgc/pranavgc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

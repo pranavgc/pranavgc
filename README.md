@@ -1,4 +1,4 @@
-**Machine learning engineer and researcher.** Two research Master's — physics at IISER Kolkata, data science at the University of Birmingham. I build models, then spend most of my time working out whether they actually hold up.
+**Machine learning engineer and researcher.** Two research Master's — Physics at Indian Institute of Science Education and Research (IISER) Kolkata, Data Science at the University of Birmingham. I build models, then spend most of my time working out whether they actually hold up.
 
 Mostly that means catching my own mistakes. My MSc thesis ended with a pre-registered five-seed replication that made me withdraw one of my own significant results: training-seed variance turned out to exceed test-set variance. At a hackathon, a reinforcement learning agent I'd trained scored +24.4 and looked fine, until it sat beside the do-nothing baseline and matched it on all twelve reported metrics. It had learned to hold. Both are in the repositories below, written up as they happened.
 
